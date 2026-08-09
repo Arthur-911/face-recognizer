@@ -29,9 +29,6 @@ facedetection/
 │   ├── train_model.py       # Entry script for model training
 │   └── run_recognition.py   # Entry script for live recognition
 ├── dataset/                 # Raw image dataset directory grouped by identity
-│   ├── Aniket/
-│   ├── chawmin/
-│   └── vishal/
 ├── models/                  # Trained embedding databases (face_db.pkl)
 │   └── .gitkeep
 ├── app.py                   # Root alias for dataset collection
@@ -56,7 +53,7 @@ facedetection/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/facedetection.git
+   git clone https://github.com/Arthur-911/facedetection.git
    cd facedetection
    ```
 
