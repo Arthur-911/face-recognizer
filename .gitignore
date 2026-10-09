@@ -67,7 +67,10 @@ venv.bak/
 .insightface/
 *.pkl
 models/*.pkl
+*.npz
+models/*.npz
 !models/.gitkeep
+
 
 
 # Dataset images & folders (keep .gitkeep)
